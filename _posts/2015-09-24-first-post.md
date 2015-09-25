@@ -22,5 +22,5 @@ Ahhhh, it doesn't make thing better. Anyway, 6 bucks for 8 crabs, is there anyth
 
 Now the worst thing come when we try to cook the crabs. They were aggressive and was trying to move everywhere. I, as son of sea, would be freaked out by them. Here is what they ended up:
 ![redcrabs]({{site.baseurl}}/images/0919crabs.JPG)
-It was delicious. I want to put that **_ok_** gesture in emoji,but I don't know how. I will figure it out. Ta-dah.:ok_hand:
+It was delicious. I want to put that **_ok_** gesture in emoji,but I don't know how. I will figure it out.
 
