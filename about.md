@@ -20,4 +20,4 @@ We are students in UCONN.至今没毕业。如果哪一天我们毕业，一定�
 
 ### Contact us
 
-[email@domain.com](mailto:shanglongzhang@gmail.com)
+[shanglongzhang@gmail.com](mailto:shanglongzhang@gmail.com)
