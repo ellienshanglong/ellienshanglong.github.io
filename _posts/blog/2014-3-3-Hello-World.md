@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Hello World!
+categories: blog
 ---
 
 The picture shown below is about some delicious cheese cakes. I don't know why people call it lady M. Because lady Fat is a more appropriate name in my mind.

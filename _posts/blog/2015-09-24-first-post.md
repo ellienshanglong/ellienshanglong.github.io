@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 大家都说第一个post要吓人才好。
+categories: blog
 ---
 
 ##Everyone believes that the first post in a new site should be scary.
