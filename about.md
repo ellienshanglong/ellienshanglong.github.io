@@ -7,7 +7,7 @@ permalink: /about/
 We are students in UCONN.至今没毕业。如果哪一天我们毕业，一定会回来更新这一条。
 我们是黑白配。_Ellie是黑的那一只_。
 在我们的生命中有很多巧合。比如：
-* 
+
 * 我们同一天考的托福。
 * 我们一架飞机来的美国。
 * 我们都喜欢看三毛的[撒哈拉的故事](https://en.wikipedia.org/wiki/The_Stories_of_the_Sahara)。因为Ellie的鼻子长得像[三毛](https://en.wikipedia.org/wiki/Sanmao_(comics))。
