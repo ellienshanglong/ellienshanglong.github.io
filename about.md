@@ -4,7 +4,10 @@ title: About
 permalink: /about/
 ---
 
-
+* A bulletted list
+- alternative syntax 1
++ alternative syntax 2
+  - an indented list item
 We are students in UCONN.至今没毕业。如果哪一天我们毕业，一定会回来更新这一条。
 我们是黑白配。_Ellie是黑的那一只_。
 在我们的生命中有很多巧合。比如：
