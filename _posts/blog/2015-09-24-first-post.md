@@ -7,7 +7,7 @@ categories: blog
 ##Everyone believes that the first post in a new site should be scary.
 
 >Hello everyone, this is the very first post of our website.
-I know maintaining a website requires some efforts. But as long as we have someplace to document our life. It will be definetly worth. This is our first story on this website.
+I know maintaining a website requires some efforts. But as long as we have someplace to document our life. It will be definitely worthy. This is our first story on this website.
 
 We were busy at planning what to do last Saturday. At the first we wanted to do water tubing in Farmington before the weather becomes cold. You know winter in Connecticut will kick your ass really bad. Unforturntely, that day was the first day of **_close of the season_**. Then we started to wonder where should we have lunch. After some thoughts, we decided to have dim-sum in Golden Palace and buy some groceries. Maybe go to Mohegen between that to see what happens.
 
