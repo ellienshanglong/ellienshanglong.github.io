@@ -11,4 +11,4 @@ categories: blog
 
 ![Blood moon eclipse1]({{site.baseurl}}/images/bloodmoon_eclipse1.jpg)
 ![Blood moon eclipse2]({{site.baseurl}}/images/bloodmoon_eclipse2.jpg)
-![Blood moon eclipse3]({{site.baseurl}}/images/bloodmoon_eclipse2.jpg)
+![Blood moon eclipse3]({{site.baseurl}}/images/bloodmoon_eclipse3.jpg)
