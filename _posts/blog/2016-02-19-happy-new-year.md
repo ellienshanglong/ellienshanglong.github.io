@@ -1,4 +1,5 @@
-yout: post
+---
+layout: post
 title: 新年快乐！
 categories: blog
 ---
