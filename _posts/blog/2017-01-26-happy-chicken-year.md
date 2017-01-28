@@ -11,6 +11,8 @@ categories: blog
 
 2016年发生了很多值得纪念的事情。在这一年里，我们迎来了新的家庭成员Tommy和Fluffy；Ellie和我一起回到中国拜访我们的家人；这两件事每一个都值得大书特书。但是因为懒，拖到了现在才来总结。在不久的将来，我们将会亡羊补牢，补上这两部分的故事，拭目以待吧。哈哈。
 
+今天Ellie亲自下厨做了美味的大盘鸡，晚上去田老师家和实验室的同事一同庆祝了新年，玩的非常高兴，哇哈哈。
+
 ![dapanji]({{site.baseurl}}/images/dapanji.JPG)
 ![jiaozi]({{site.baseurl}}/images/jiaozi.JPG)
 ![hezhao1]({{site.baseurl}}/images/hezhao1.JPG)
