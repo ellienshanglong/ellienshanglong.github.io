@@ -4,7 +4,7 @@ title: 大家都说第一个post要吓人才好。
 categories: blog
 ---
 
-##Everyone believes that the first post in a new site should be scary.
+##Everyone believes that the first post in a new site should be scary.##
 
 >Hello everyone, this is the very first post of our website.
 I know maintaining a website requires some efforts. But as long as we have someplace to document our life. It will be definitely worthy. This is our first story on this website.
@@ -24,4 +24,3 @@ Ahhhh, it doesn't make thing better. Anyway, 6 bucks for 8 crabs, is there anyth
 Now the worst thing come when we try to cook the crabs. They were aggressive and was trying to move everywhere. I, as son of sea, would be freaked out by them. Here is what they ended up:
 ![redcrabs]({{site.baseurl}}/images/0919crabs.JPG)
 It was delicious. I want to put that **_ok_** gesture in emoji,but I don't know how. I will figure it out.
-
