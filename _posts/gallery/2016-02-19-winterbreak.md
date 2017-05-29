@@ -4,35 +4,30 @@ title: 西南之旅
 categories: gallery
 ---
 
-##South West
+## South West ##
 
-###@California State Route 1
+### @California State Route 1
 ![hwy1_1]({{site.baseurl}}/images/hwy1_1.jpg)
 ![hwy1_2]({{site.baseurl}}/images/hwy1_2.jpg)
 ![hwy1_3]({{site.baseurl}}/images/hwy1_3.jpg)
 ![hwy1_4]({{site.baseurl}}/images/hwy1_4.jpg)
 ![hwy1_5]({{site.baseurl}}/images/hwy1_5.jpg)
-###@Santa Monica
+### @Santa Monica
 ![monica]({{site.baseurl}}/images/monica.jpg)
-###@Hollywood
+### @Hollywood
 ![hollywood]({{site.baseurl}}/images/hollywood.jpg)
 ![hollywood_2]({{site.baseurl}}/images/hollywood_2.jpg)
-###@San Diego Zoo
+### @San Diego Zoo
 ![zoo]({{site.baseurl}}/images/zoo.jpg)
 ###@Joshua Tree National Park
 ![joshuatree]({{site.baseurl}}/images/joshuatree.jpg)
-###@Las Vegas
+### @Las Vegas
 ![vegas_1]({{site.baseurl}}/images/vegas_1.jpg)
 ![vegas_2]({{site.baseurl}}/images/vegas_2.jpg)
-###@Death Valley National Park
+### @Death Valley National Park
 ![deathvally_1]({{site.baseurl}}/images/deathvally_1.jpg)
 ![deathvally_2]({{site.baseurl}}/images/deathvally_2.jpg)
 ![deathvally_4]({{site.baseurl}}/images/deathvally_4.jpg)
 ![deathvally_5]({{site.baseurl}}/images/deathvally_5.jpg)
-###@San Francisco
+### @San Francisco
 ![sf]({{site.baseurl}}/images/sf.jpg)
-
-
-
-
-
