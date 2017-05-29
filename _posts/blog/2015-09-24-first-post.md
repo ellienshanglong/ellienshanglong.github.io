@@ -1,10 +1,10 @@
 ---
 layout: post
-title: 大家都说第一个post要吓人才好。
+title: 第一个post!
 categories: blog
 ---
 
-## Everyone believes that the first post in a new site should be scary. ##
+## The very first post. ##
 
 >Hello everyone, this is the very first post of our website.
 I know maintaining a website requires some efforts. But as long as we have someplace to document our life. It will be definitely worthy. This is our first story on this website.
