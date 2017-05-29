@@ -4,7 +4,7 @@ title: Cat shelters
 categories: blog
 ---
 
-##Cat shelters
+## Cat shelters
 
 In the summer of 2016, Ellie and I was in searching of a cat into our family. Initially we would like to have a dog cause Ellie loves dog and she had dogs during her whole childhood. She also liked to divide people into two general groups --- dog person and cat person. Dog person is outgoing and always cares about others. They want everyone to be happy. On the other hand, cat person is calm and icy. Ellie thinks that she and I are both dog person, therefore we were thinking about to have a dog. However, we are both busy all the time cannot guarantee to take the dog out everyday. We knew we want a pet, but dog was not a option. We might be get one when we finish graduate school, but not now. So we started to find alternatives. We had fishes, but unfortunately they died after two weeks. I had to admit that we were very sad, but we had done everything we can do to prevent that from happening. Fishes are just too vulnerable. We cannot suffer from this again so we gave up and gave the fish tank and food away. Then we started to think that if we can have a dog, might be we can adopt a cat.
 
